@@ -7,13 +7,12 @@ A software engineering documentation project developed as part of SEN 220 at Bah
 The Skill Barter Platform is a web-based system that allows users to exchange skills directly without any monetary transaction. Users list skills they offer and skills they want, find matching users, and arrange skill swap sessions.
 
 ## Team Members
-
 | Name | Enrollment No | Role |
 |------|--------------|------|
-| Muhammad Sadiq Aslam Khan | 01-134242-091 | Problem Statement, Architecture Design, GitHub |
-| Malik Junaid Ahmed | 01-134242-061 | Requirements, Class Diagram, PERT Chart |
-| Bilawal Khokhar | 01-134242-036 | Use Case Diagrams, DFD Level 0 and 1 |
-| Shah Murad | 01-134242-113 | Sequence, Activity, State Machine, Test Plan |
+| Muhammad Sadiq Aslam Khan | 01-134242-091 | Milestone 2 |
+| Malik Junaid Ahmed | 01-134242-061 | Milestone 1, Milestone 4 |
+| Bilawal Khokhar | 01-134242-036 | Milestone 3 |
+| Shah Murad | 01-134242-113 | Milestone 1 |
 
 ## Documentation Structure
 
